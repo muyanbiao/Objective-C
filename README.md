@@ -13,7 +13,6 @@
 10. 堆
 
 ## Objective-C 与 Foundation
----
 1. 对象
 2. 再谈消息
 3. 对象与内存
@@ -34,7 +33,6 @@
 18. Property List 格式
 
 ## Objective-C高级主题
----
 1. init
 2. 再谈属性
 3. KVC
@@ -43,7 +41,6 @@
 6. Objective-C 运行时
 
 ## C语言高级主题
----
 1. 位运算
 2. C字符串
 3. C数组
