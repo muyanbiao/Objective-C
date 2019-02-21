@@ -6,7 +6,7 @@
 	* 8个开关保存一个字节（byte）
 	* 内存是有数字编号的
 	* 通常用地址（address）来指代某个特定字节的数据
-	* 32位或者64位是指地址的大小
+	* 32位或者64位是指地址的大小  
 	![image](https://github.com/muyanbiao/Objective-C/blob/master/chapter7/Resources/cpu_ram.png)
 
 1. 获取地址（Getting addresses）
@@ -51,31 +51,31 @@
 4. 不同类型的数据所占内存的大小（How many bytes?）
 	1. `sizeof() // 获取某个数据类型的大小`
 		```
-			printf("An int is %zu bytes\n", sizeof(int));
-			printf("A pointer is %zu bytes\n", sizeof(int *));
-			// %zu - sizeof() 返回一个类型为size_t的数，与之对应的格式说明符就是zu%
-			// 指针的长度为4个字节 - 程序在32位模式下运行
-			// 指针的长度为8个字节 - 程序在64位模式下运行
+		printf("An int is %zu bytes\n", sizeof(int));
+		printf("A pointer is %zu bytes\n", sizeof(int *));
+		// %zu - sizeof() 返回一个类型为size_t的数，与之对应的格式说明符就是zu%
+		// 指针的长度为4个字节 - 程序在32位模式下运行
+		// 指针的长度为8个字节 - 程序在64位模式下运行
 		```
 5. **NULL**
 	1. ”空“指针 - 不指向任何地址
 	2. 即：有一个能够保存地址的指针变量，但是要赋上某个值，用于明确表示该指针没有指向任何地址
 	```
-		float *myPointer;
-		myPointer = NULL;	// 暂时将myPointer赋为NULL，程序稍后会存入某个地址指针
-		...
-		// myPointer指针是否为空
-		if (myPointer) {
-			// myPointer 不是NULL
-			......处理myPointer指向的数据......
-		} else {
-			// myPointer 是NULL
-		}
+	float *myPointer;
+	myPointer = NULL;	// 暂时将myPointer赋为NULL，程序稍后会存入某个地址指针
+	...
+	// myPointer指针是否为空
+	if (myPointer) {
+		// myPointer 不是NULL
+		......处理myPointer指向的数据......
+	} else {
+		// myPointer 是NULL
+	}
 	```
 	3. **Objective-C**中使用**nil**来代替**NULL**
 6. 指针声明的代码规范（Stylish pointer declarations）
-	```
-	float *powerPtr;	// float指针
-	float *b, c; // b - float指针，c - float变量
-	float *b, *c; // b,c - float指针	
-	```
+```
+float *powerPtr;	// float指针
+float *b, c; // b - float指针，c - float变量
+float *b, *c; // b,c - float指针	
+```
