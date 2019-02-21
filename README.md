@@ -4,7 +4,7 @@
 1. 变量与类型
 2. if和else
 3. 函数
-4. 格式化字符串
+4. [格式化字符串](https://github.com/muyanbiao/Objective-C/tree/master/chapter4)
 5. 数字
 6. 循环
 7. 地址与指针
