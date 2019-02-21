@@ -7,7 +7,7 @@
 4. [格式化字符串](https://github.com/muyanbiao/Objective-C/tree/master/chapter4)
 5. 数字
 6. 循环
-7. 地址与指针
+7. [地址与指针](https://github.com/muyanbiao/Objective-C/tree/master/chapter7)
 8. 通过引用传递
 9. 结构
 10. 堆
