@@ -10,7 +10,7 @@
 7. [地址与指针](https://github.com/muyanbiao/Objective-C/tree/master/chapter7)
 8. [通过引用传递](https://github.com/muyanbiao/Objective-C/tree/master/chapter8)
 9. 结构
-10. 堆
+10. [堆](https://github.com/muyanbiao/Objective-C/tree/master/chapter10)
 
 ## Objective-C 与 Foundation
 11. 对象
