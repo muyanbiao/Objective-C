@@ -14,7 +14,7 @@
 
 ## Objective-C 与 Foundation
 11. [对象](https://github.com/muyanbiao/Objective-C/tree/master/chapter11)
-12. 再谈消息
+12. [再谈消息](https://github.com/muyanbiao/Objective-C/tree/master/chapter12)
 13. 对象与内存
 14. NSString
 15. NSArray
