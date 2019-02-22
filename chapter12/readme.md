@@ -2,7 +2,7 @@
 ### 本章学习带参数的消息、消息的嵌套发送等知识
 1. 传递实参的消息（A message with an argument）  
 ![image](https://github.com/muyanbiao/Objective-C/blob/master/chapter12/Resources/more_message1.png)
-2. 多个实参(Multiple arguments)
+2. 多个实参(Multiple arguments)  
 ![image](https://github.com/muyanbiao/Objective-C/blob/master/chapter12/Resources/more_message2.png)  
 ```
 	#import <Foundation/Foundation.h>
