@@ -8,7 +8,7 @@
 5. 数字
 6. 循环
 7. [地址与指针](https://github.com/muyanbiao/Objective-C/tree/master/chapter7)
-8. 通过引用传递
+8. [通过引用传递](https://github.com/muyanbiao/Objective-C/tree/master/chapter8)
 9. 结构
 10. 堆
 
