@@ -21,6 +21,7 @@
 	* 对**通过引用传递**的形象比喻：
 	> 假设我们负责为间谍委派任务。一天，我们通知某为间谍：想办法拿到财政部长和他的女朋友在一起的照片。我已经在公园的天石雕像下藏了一根短钢管，得到照片后，卷起来放在刚管里，我会在周二午饭后取走。用间谍的行话，称为
 	> **情报传递点（dead drop）**  
+	
 	![image](https://github.com/muyanbiao/Objective-C/blob/master/chapter8/Resources/pass-by-reference.png)
 
 2. 不要对`NULL`取值（Avoid dereferencing NULL）
