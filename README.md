@@ -19,7 +19,7 @@
 14. NSString
 15. NSArray
 16. 自定义类
-17. 属性
+17. [属性](https://github.com/muyanbiao/Objective-C/tree/master/chapter17)
 18. 继承
 19. 对象实例变量及属性
 20. 类扩展
