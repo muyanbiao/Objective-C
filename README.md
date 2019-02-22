@@ -13,34 +13,34 @@
 10. 堆
 
 ## Objective-C 与 Foundation
-1. 对象
-2. 再谈消息
-3. 对象与内存
-4. NSString
-5. NSArray
-6. 自定义类
-7. 属性
-8. 继承
-9. 对象实例变量及属性
-10. 类扩展
-11. 避免内存泄漏
-12. Collection 类
-13. 常量
-14. 通过 NSString 和 NSData 将数据写入文件
-15. 回调
-16. Block对象
-17. 协议
-18. Property List 格式
+11. 对象
+12. 再谈消息
+13. 对象与内存
+14. NSString
+15. NSArray
+16. 自定义类
+17. 属性
+18. 继承
+19. 对象实例变量及属性
+20. 类扩展
+21. 避免内存泄漏
+22. Collection 类
+23. 常量
+24. 通过 NSString 和 NSData 将数据写入文件
+25. 回调
+26. Block对象
+27. 协议
+28. Property List 格式
 
 ## Objective-C高级主题
-1. init
-2. 再谈属性
-3. KVC
-4. KVO
-5. 范畴
-6. Objective-C 运行时
+29. init
+30. 再谈属性
+31. KVC
+32. KVO
+33. 范畴
+34. Objective-C 运行时
 
 ## C语言高级主题
-1. 位运算
-2. C字符串
-3. C数组
+35. 位运算
+36. C字符串
+37. C数组
