@@ -38,4 +38,4 @@ int main(int argc, const char *argv[])
 6. id
 	* id类型：可以指向任意类型Objective-C对象的指针，如
 		* `id delegate;`
-	* 注，id声明的变量**不需要加*-星号**，id已经隐含了星号的作用
+	* 注，id声明的变量**不需要加*星号**，id已经隐含了星号的作用
