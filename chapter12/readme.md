@@ -26,7 +26,7 @@
 		* 创建一个新对象，并返回一个指向该对象的**指针**
 		* 通过`alloc`创建出来的对象，**必须经过初始化才能使用**
 		* 如果创建出来的对象没有经过初始化，它会存在于内存里，但无法接收消息
-		* 每个类都有一个`init`实例方法，它用来初始化实例
+	* 每个类都有一个`init`实例方法，它用来初始化实例
 		* `NSDate *now = [[NSDate alloc] init];`
 		* `[NSDate date]`中的**date**方法可以用最少的代码获取一个**NSDate**实例，我们称这种方法为**便利方法（convenience method）**
 5. 向**nil**发送消息（Sending messages to nil）
