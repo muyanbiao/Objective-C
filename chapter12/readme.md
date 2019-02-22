@@ -16,7 +16,7 @@ int main(int argc, const char *argv[])
 	}
 }
 ```  
-![image](https://github.com/muyanbiao/Objective-C/blob/master/chapter12/Resources/more_message2.png)
+![image](https://github.com/muyanbiao/Objective-C/blob/master/chapter12/Resources/more_message2.png)  
 3. 消息的嵌套发送（Nesting message sends）
 	* `double seconds = [[NSDate date] timeIntervalSince1970];`
 	* 嵌套发送的消息，系统会**先执行最里面**的消息，然后按**由内至外**的顺序依次执行外层消息。
